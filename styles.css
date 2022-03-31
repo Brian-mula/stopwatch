@@ -1,0 +1,28 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(to right, #9cecfb, #65c7f7, #0052d4);
+}
+.container{
+    margin: 100px auto;
+    text-align: center;
+
+}
+h3{
+    font-size: 5em;
+    color: #fff;
+
+}
+.time{
+    font-size: 5em;
+    color: #fff;
+
+}
+button{
+    padding: 18px 10px;
+    border: none;
+    font-size: 1.2em;
+    width: 180px;
+    margin: 10px;
+    cursor: pointer;
+}
